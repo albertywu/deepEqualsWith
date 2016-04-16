@@ -1,0 +1,29 @@
+{
+  "name": "deepEqualsWith",
+  "version": "1.0.0",
+  "description": "Performs a deep equality check on two members, with support for custom equality function for primitive types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertywu/deepEqualsWith.git"
+  },
+  "keywords": [
+    "deep equality",
+    "equality check",
+    "custom deep equality"
+  ],
+  "author": "Albert Wu <albertywu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertywu/deepEqualsWith/issues"
+  },
+  "homepage": "https://github.com/albertywu/deepEqualsWith#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "lodash.isequal": "^4.1.4",
+    "type-of": "^2.0.1"
+  }
+}
