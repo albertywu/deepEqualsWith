@@ -1,6 +1,6 @@
 {
   "name": "deepEqualsWith",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Performs a deep equality check on two members, with support for custom equality function for primitive types.",
   "main": "deepEqualsWith.js",
   "scripts": {
