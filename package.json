@@ -2,7 +2,7 @@
   "name": "deepEqualsWith",
   "version": "1.0.0",
   "description": "Performs a deep equality check on two members, with support for custom equality function for primitive types.",
-  "main": "index.js",
+  "main": "deepEqualsWith.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
